@@ -1,0 +1,20 @@
+.bg-blue{
+  background-color: blue;
+}
+
+.bg-brown{
+  background-color: brown;
+}
+.bg-dark{
+  background-color: #000000;
+}
+.bg-none{
+  background-color: white;
+}
+.bg-grey{
+  background-color: grey;
+}
+
+.text-white{
+  color: #ffffff;
+}
